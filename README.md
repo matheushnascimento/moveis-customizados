@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
-
+![GitHub Org's stars](https://img.shields.io/github/stars/matheushnascimento?style=social)
 
 ![Static Badge](https://img.shields.io/badge/Licence-MIT-m)
 
