@@ -7,6 +7,8 @@ body {
   font-family: "Open Sans", sans-serif;
 
   text-align: center;
+
+  min-width: 100vh;
 }
 
 #hero {
@@ -15,11 +17,11 @@ body {
 }
 
 #hero {
-  margin-bottom: 72px;
+  padding-bottom: 72px;
 }
 
 #hero img {
-  margin-bottom: 72px;
+  padding-bottom: 72px;
 }
 
 h1 {
@@ -28,7 +30,7 @@ h1 {
   line-height: 56px;
   font-weight: normal;
 
-  margin-bottom: 32px;
+  padding-bottom: 32px;
 }
 
 h1 span {
@@ -48,7 +50,7 @@ p,
 }
 
 #footer {
-  margin-bottom: 33px;
+  padding-bottom: 33px;
 }
 
 #footer a + a {
